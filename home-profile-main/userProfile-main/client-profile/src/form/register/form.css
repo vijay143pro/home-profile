@@ -1,0 +1,18 @@
+.user-reg-form{
+    
+  }
+  .container1{
+   margin-left: 10%;
+    padding: 30px 30px 35px 30px;
+    width: 70%;
+    background: linear-gradient(225deg, #b3c3f4 0%, #ddf3b0 100%);
+    opacity: 0.9;
+    
+  }
+  .container h1{
+    text-align: center;
+  }
+  .container .btn{
+    width: 98%;
+    height: 60px;
+  }
